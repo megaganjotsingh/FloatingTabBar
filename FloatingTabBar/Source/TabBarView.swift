@@ -23,7 +23,6 @@ struct TabBarView: View {
             .frame(width: 60)
             .buttonStyle(CustomButtonStyle())
 
-
             Button {
                 selectedIndex = 1
             } label: {
@@ -38,7 +37,6 @@ struct TabBarView: View {
             .frame(width: 60)
             .buttonStyle(CustomButtonStyle())
             
-
             Button {
                 selectedIndex = 2
             } label: {
